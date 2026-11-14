@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+statsmodels
+google-cloud-bigquery[pandas]
+db-dtypes
+notebook
